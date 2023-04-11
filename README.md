@@ -48,9 +48,9 @@
 
 
 ## number of people
-3. imho slay sub machi unicorn island trail root nemesis wingspan Scythe
-4. house imho slay sub king machi unicorn island trail root zombicide warchest nemesis wingspan Scythe
-5. house sub king bang wolf machi krak nottingham wonder zombicide nemesis wingspan Scythe
+3. imho slay sub machi unicorn island trail root nemesis wingspan scythe
+4. house imho slay sub king machi unicorn island trail root zombicide warchest nemesis wingspan scythe
+5. house sub king bang wolf machi krak nottingham wonder zombicide nemesis wingspan scythe
 6. dec king bang wolf krak avalon nottingham wonder zombicide Scythe
 7. dece bang wolf krak avalon wonder durian Scythe 7 wonders durian
 8. dec wolf avalon saboteur code
