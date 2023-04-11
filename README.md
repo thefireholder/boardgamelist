@@ -1,58 +1,58 @@
 # boardgamelist
+- 	7 wonders
+- 	Arkham horror card
+- 	Avalon
+- 	Bang
+- 	Clank + expansion
+- 	Code name
+- 	Coop + expansion
+- 	Deception
+- 	Dual
+- 	Dungeon buster 와글와글던전
+- 	Durian
+- 	Exploding kitten
+- 	Forbidden island
+- 	Gizmos
+- 	Gloomhaven
+- 	Great western trail
+- 	Hanabi
+- 	Here to Slay
+- 	House of betrayal
+- 	Imhotep
+- 	King of tokyo
+- 	Legacy pandemic
+- 	Lotus
+- 	Love letter
+- 	Machi koro
+- 	Mansion of madness + expansion
+- 	Monopoly deal
+- 	Nemesis
+- 	No touch kraken
+- 	One night werewolf
+- 	Pandemic
+- 	Resistance
+- 	Root
+- 	Saboteur
+- 	Scythe + expansion
+- 	Secret Hitler	
+- 	Sequence
+- 	Sheriff of Nottingham
+- 	Splendor
+- 	Suburbia
+- 	Terraforming Mars Ares
+- 	Ticket to ride
+- 	Unstable unicorn
+- 	Warchest
+- 	Wingspan + expansion 
+- 	Zombicide
 
-deception
-imhotep
-slay
-suburbia
-machi koro
-legacy pandemic
-house of betrayal
-one night werewolf
-bang
-king of tokyo
-no touch kraken
-nottingham
-unstable unicorn
-avalon
-forbidden island
-7 wonders
-great western trail
-mansion
-splendor
-gloomhaven
-warchest
-nemesis
-wingspan + expansion 
-dungeon buster 와글던전
-root
-zombicide 
-monopoly deal
-Arkham horror card
-hanabi
-pandemic
-ticket to ride
-exploding kitten
-Scythe + expansion
-Terraforming Mars Ares
-lotus
-Gizmos
-Love letter
-Resistance
-Code name
-saboteur
-Sequence
-Durian
-Clank + expansion
-Dual
-Coop + expansion
-Gift Secret Hitler	
 
 ## number of people
-3 imho slay sub machi unicorn island trail root nemesis wingspan Scythe
-4 house imho slay sub king machi unicorn island trail root zombicide warchest nemesis wingspan Scythe
-5 house sub king bang wolf machi krak nottingham wonder zombicide nemesis wingspan Scythe
-6 dec king bang wolf krak avalon nottingham wonder zombicide Scythe
-7 dece bang wolf krak avalon wonder durian Scythe 7 wonders
-8 dec wolf avalon
-9 wolf avalon
-10 wolf avalon, saboteur, sequence
+3. imho slay sub machi unicorn island trail root nemesis wingspan Scythe
+4. house imho slay sub king machi unicorn island trail root zombicide warchest nemesis wingspan Scythe
+5. house sub king bang wolf machi krak nottingham wonder zombicide nemesis wingspan Scythe
+6. dec king bang wolf krak avalon nottingham wonder zombicide Scythe
+7. dece bang wolf krak avalon wonder durian Scythe 7 wonders durian
+8. dec wolf avalon saboteur code
+9. wolf avalon saboteur code
+10. wolf avalon, saboteur, sequence
